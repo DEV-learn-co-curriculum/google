@@ -25,3 +25,5 @@ This lab will help you create your own Blog backend! After this lab you will be 
 + Make the site look better with CSS and more creative HTML
 + Validate content and user name.
 + Add an email field
+
+<a href='https://learn.co/lessons/google' data-visibility='hidden'>Learn.co resource</a>
